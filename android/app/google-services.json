@@ -1,0 +1,582 @@
+{
+  "project_info": {
+    "project_number": "390472160716",
+    "project_id": "onigbindestores-b209a",
+    "storage_bucket": "onigbindestores-b209a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390472160716:android:0f0ec061dffa7ded307969",
+        "android_client_info": {
+          "package_name": "com.mycompany.onigbindestores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390472160716-n3bisolbkie5imk63417p1rglgrsu0j9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.onigbindestores",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SFaSkHydpHZob-7H0_Mtva9s_Vnw9kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390472160716-b4l0blthhnk2j9kj01ba6drmjrjt8gvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seapsontrade.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390472160716:android:ec81e62a1eb3fa15307969",
+        "android_client_info": {
+          "package_name": "com.seapsontrade.castlekrest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SFaSkHydpHZob-7H0_Mtva9s_Vnw9kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390472160716-b4l0blthhnk2j9kj01ba6drmjrjt8gvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seapsontrade.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390472160716:android:924fda88b07bc4c5307969",
+        "android_client_info": {
+          "package_name": "com.seapsontrade.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390472160716-aqkn3aurglrdetikrd3du3dp84u53op5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seapsontrade.ecommerce",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SFaSkHydpHZob-7H0_Mtva9s_Vnw9kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390472160716-b4l0blthhnk2j9kj01ba6drmjrjt8gvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seapsontrade.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390472160716:android:d7a626cf50d5b743307969",
+        "android_client_info": {
+          "package_name": "com.seapsontrade.goodofood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SFaSkHydpHZob-7H0_Mtva9s_Vnw9kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390472160716-b4l0blthhnk2j9kj01ba6drmjrjt8gvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seapsontrade.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390472160716:android:d8705c075fc3d728307969",
+        "android_client_info": {
+          "package_name": "com.seapsontrade.jjcfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SFaSkHydpHZob-7H0_Mtva9s_Vnw9kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390472160716-b4l0blthhnk2j9kj01ba6drmjrjt8gvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seapsontrade.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390472160716:android:868e7c171deddff4307969",
+        "android_client_info": {
+          "package_name": "com.seapsontrade.kefiano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SFaSkHydpHZob-7H0_Mtva9s_Vnw9kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390472160716-b4l0blthhnk2j9kj01ba6drmjrjt8gvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seapsontrade.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390472160716:android:455a27099bfe4539307969",
+        "android_client_info": {
+          "package_name": "com.seapsontrade.l7villagemarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SFaSkHydpHZob-7H0_Mtva9s_Vnw9kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390472160716-b4l0blthhnk2j9kj01ba6drmjrjt8gvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seapsontrade.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390472160716:android:a7be8853b72d0750307969",
+        "android_client_info": {
+          "package_name": "com.seapsontrade.londoncosmetics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390472160716-90q8nj09bl2vc0i7vohjfjq3nu1uoosk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seapsontrade.londoncosmetics",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SFaSkHydpHZob-7H0_Mtva9s_Vnw9kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390472160716-b4l0blthhnk2j9kj01ba6drmjrjt8gvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seapsontrade.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390472160716:android:7d8f42b898d92bee307969",
+        "android_client_info": {
+          "package_name": "com.seapsontrade.meespalace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390472160716-5adrfi05ogr9i3fo9qjrubq16vkl97kf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seapsontrade.meespalace",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SFaSkHydpHZob-7H0_Mtva9s_Vnw9kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390472160716-b4l0blthhnk2j9kj01ba6drmjrjt8gvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seapsontrade.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390472160716:android:60ef62c27bccc8a4307969",
+        "android_client_info": {
+          "package_name": "com.seapsontrade.melos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SFaSkHydpHZob-7H0_Mtva9s_Vnw9kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390472160716-b4l0blthhnk2j9kj01ba6drmjrjt8gvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seapsontrade.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390472160716:android:ade14186a7a40feb307969",
+        "android_client_info": {
+          "package_name": "com.seapsontrade.pakfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SFaSkHydpHZob-7H0_Mtva9s_Vnw9kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390472160716-b4l0blthhnk2j9kj01ba6drmjrjt8gvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seapsontrade.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390472160716:android:695067e2761a6474307969",
+        "android_client_info": {
+          "package_name": "com.seapsontrade.pepsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SFaSkHydpHZob-7H0_Mtva9s_Vnw9kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390472160716-b4l0blthhnk2j9kj01ba6drmjrjt8gvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seapsontrade.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390472160716:android:30dc62c6bcbb5297307969",
+        "android_client_info": {
+          "package_name": "com.seapsontrade.veenas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SFaSkHydpHZob-7H0_Mtva9s_Vnw9kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390472160716-b4l0blthhnk2j9kj01ba6drmjrjt8gvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seapsontrade.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390472160716:android:1f0fd11d961d20fb307969",
+        "android_client_info": {
+          "package_name": "com.seapsontrade.veenasonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SFaSkHydpHZob-7H0_Mtva9s_Vnw9kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390472160716-b4l0blthhnk2j9kj01ba6drmjrjt8gvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seapsontrade.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390472160716:android:b48b28b266e51613307969",
+        "android_client_info": {
+          "package_name": "com.seapsontrade.wejosrock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SFaSkHydpHZob-7H0_Mtva9s_Vnw9kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390472160716-5ev8umpo301e6g77l66tgk3cserle2u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390472160716-b4l0blthhnk2j9kj01ba6drmjrjt8gvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seapsontrade.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
